@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FAYE-birame
-- 👀 I’m interested in Dévoloppeur web et mobile
+- 👀 I’m interested in Dévoloppement web et mobile
 - 🌱 I’m currently learning  Dévoloppement web et mobile
 - 💞️ I’m looking to collaborate on sur github
 - 📫 How to reach me taper FAYE-birame
